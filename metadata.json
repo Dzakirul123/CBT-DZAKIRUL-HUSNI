@@ -1,0 +1,6 @@
+{
+  "name": "SIMAS CBT - Platform Asesmen Digital & Ujian Mandiri",
+  "description": "Sistem Asesmen Digital dan CBT sekolah/madrasah modern dengan fitur Kiosk Exam Mode, deteksi pelanggaran real-time, autosave, bank soal variatif, dan audit proctoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
